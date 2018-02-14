@@ -1,0 +1,16 @@
+/Users/garrywhittaker/Projects/UCL1/UCL1/obj/Release/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/garrywhittaker/Projects/UCL1/UCL1/obj/Release/UCL1.App.xaml
+/Users/garrywhittaker/Projects/UCL1/UCL1/obj/Release/UCL1.LectureDataPage.xaml
+/Users/garrywhittaker/Projects/UCL1/UCL1/obj/Release/UCL1.App.xaml.g.cs
+/Users/garrywhittaker/Projects/UCL1/UCL1/obj/Release/UCL1.LectureDataPage.xaml.g.cs
+/Users/garrywhittaker/Projects/UCL1/UCL1/bin/Release/UCL1.dll
+/Users/garrywhittaker/Projects/UCL1/UCL1/obj/Release/UCL1.dll
+/Users/garrywhittaker/Projects/UCL1/UCL1/bin/Release/ModernHttpClient.dll
+/Users/garrywhittaker/Projects/UCL1/UCL1/bin/Release/Newtonsoft.Json.dll
+/Users/garrywhittaker/Projects/UCL1/UCL1/bin/Release/Xamarin.Forms.Theme.Base.dll
+/Users/garrywhittaker/Projects/UCL1/UCL1/bin/Release/Xamarin.Forms.Theme.Light.dll
+/Users/garrywhittaker/Projects/UCL1/UCL1/bin/Release/Xamarin.Forms.Theme.Dark.dll
+/Users/garrywhittaker/Projects/UCL1/UCL1/bin/Release/Xamarin.Forms.Core.dll
+/Users/garrywhittaker/Projects/UCL1/UCL1/bin/Release/Xamarin.Forms.Platform.dll
+/Users/garrywhittaker/Projects/UCL1/UCL1/bin/Release/Xamarin.Forms.Xaml.dll
+/Users/garrywhittaker/Projects/UCL1/UCL1/bin/Release/Xamarin.Forms.Pages.dll

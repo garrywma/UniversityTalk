@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p:ListDataPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:p="clr-namespace:Xamarin.Forms.Pages;assembly=Xamarin.Forms.Pages"
+             x:Class="UCL1.LectureDataPage" StyleClass="Events" Title="Lectures">
+
+    <p:ListDataPage.DataSource>
+        <p:JsonDataSource Source="http://demo1006878.mockable.io/lectures" />
+    </p:ListDataPage.DataSource>	
+    <p:ListDataPage.DefaultItemTemplate>
+        <DataTemplate>
+            <ViewCell>
+                <p:HeroImage
+                    Text="{p:DataSourceBinding presenter}"
+                    Detail="{p:DataSourceBinding start,StringFormat='{0:MMMM d, yyyy HH:mm}'}"  
+                    ImageSource="{p:DataSourceBinding image}" 
+                    DataSource="{Binding Value}" />
+                
+            </ViewCell>
+        </DataTemplate>
+    </p:ListDataPage.DefaultItemTemplate>
+</p:ListDataPage>

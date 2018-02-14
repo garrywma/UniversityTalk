@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{53B81D34-B317-4A59-B4C0-00D7954AED88}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UCL1/App.xaml">
+    <Files>
+      <File FileName="UCL1/App.xaml" Line="8" Column="15" />
+      <File FileName="UCL1/LectureDataPage.cs" Line="9" Column="26" />
+      <File FileName="UCL1/App.xaml.cs" Line="11" Column="34" />
+      <File FileName="Droid/MainActivity.cs" Line="27" Column="18" />
+      <File FileName="iOS/AppDelegate.cs" Line="22" Column="1" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="UCL1/obj/Debug/UCL1.LectureDataPage.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="UCL1/packages.config" Line="1" Column="1" />
+      <File FileName="Droid/Resources/values/styles.xml" Line="2" Column="1" />
+      <File FileName="UCL1/LectureDataPage.xaml" Line="22" Column="18" />
+      <File FileName="../../../../Library/Frameworks/Xamarin.Android.framework/Versions/8.1.5-0/lib/xamarin.android/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" Line="1787" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UCL1.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.UCL1.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.39FFB9D4-93B2-4866-ACCA-34D9A861A660" />
+</Properties>
