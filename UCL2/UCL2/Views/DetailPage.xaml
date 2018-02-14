@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UCL2.View.DetailsPage"
+             Title="{Binding title}"
+             x:Name="ThePage">
+
+  <ScrollView Padding="10">
+    <StackLayout Spacing="10">
+      <Image Source="{Binding image}" HeightRequest="200"  WidthRequest="200"/>
+      
+      <Label Text="{Binding presenter}" HorizontalTextAlignment="Center" FontSize="24"/>
+   	  <Label Text="{Binding venue}" HorizontalTextAlignment="Center" TextColor="Purple"/>
+	  <Label Text="{Binding address}" HorizontalTextAlignment="Center" TextColor="Purple"/>
+      <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+    	   <Label Text="{Binding starts}" TextColor="Purple"/>
+    	   <Label Text="to" TextColor="Purple"/>
+    	   <Label Text="{Binding ends}" TextColor="Purple"/>
+      </StackLayout>
+      <Label Text="{Binding biography}" HorizontalOptions="Center"/>
+    	
+	  <Button Text="Speak" x:Name="ButtonSpeak"/>
+	  <Button Text="Map" x:Name="ButtonMap"/>
+  	  <Button Text="Add to calendar" x:Name="ButtonCalendar"/>
+    </StackLayout>    
+  </ScrollView>
+</ContentPage>
